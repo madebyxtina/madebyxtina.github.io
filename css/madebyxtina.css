@@ -1,0 +1,21 @@
+body {
+  background-color: #212121;
+  color: #feffff;
+  font-size: 16px;
+}
+
+
+.hero {
+  position: relative;
+  top: 25vh;
+  margin: 0 auto;
+  width: 75%;
+  text-align: center;
+}
+
+.hero h1 {
+  font-family: 'Bowlby One SC', sans-serif;
+  font-size: 5em;
+  color: #ff5252;
+  letter-spacing: 5px;
+}
